@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-lzcw55.trans88.space/sitemap.xml
